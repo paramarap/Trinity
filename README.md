@@ -16,9 +16,9 @@ A Python Pygame project featuring three mini-games inspired by classic arcade ga
 - Click on falling boxes before they disappear!
 - I have used this practice for games like Valorant and Fortnite, improving coordination and reflexes
 
-## Features
-✅ RGB-themed UI for a vibrant experience
-✅ Smooth gameplay mechanics with unique functionality
-✅ Simple and engaging design
+## Features ✅
+- RGB-themed UI for a vibrant experience
+- Smooth gameplay mechanics with unique functionality
+- Simple and engaging design
 
 🚀 Have fun playing! Feel free to contribute or suggest improvements.
